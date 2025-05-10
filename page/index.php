@@ -44,7 +44,7 @@ $kdramas = [
         ["title" => "Sweet Home", "image" => "sweet_home.jpg"],
         ["title" => "Taxi Driver", "image" => "taxi_driver.jpg"],
         ["title" => "D.P", "image" => "dp.jpg"],
-        ["title" => "Vincenzo", "image" => "Vincenzo.jpg"]
+        ["title" => "Vincenzo", "image" => "vincenzo.jpg"]
     ]
 ];
 ?>
