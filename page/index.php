@@ -79,7 +79,7 @@ $kdramas = [
     <?php foreach ($kdramas as $genre => $dramas): ?>
         <?php foreach ($dramas as $drama): ?>
             <div class="kdrama-item" data-genre="<?php echo $genre; ?>">
-                <img src="/Posters/<?php echo htmlspecialchars($drama['image']); ?>" alt="<?php echo htmlspecialchars($drama['title']); ?>">
+                <img src="/page/assets/img/<?php echo htmlspecialchars($drama['image']); ?>" alt="<?php echo htmlspecialchars($drama['title']); ?>">
                 <h4><?php echo htmlspecialchars($drama['title']); ?></h4>
             </div>
         <?php endforeach; ?>
