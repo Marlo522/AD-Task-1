@@ -6,6 +6,31 @@ body {
     flex-direction: column;
 }
 
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    background-color: #042647;
+}
+
+.nav-links {
+    list-style: none;
+    display: flex;
+    gap: 15px;
+}
+
+.nav-links li a {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.day {
+    margin-left: auto;
+    font-size: 16px;
+    color: #ffffff;
+}
+
 .carousel-inner img {
     height: 100%;
     object-fit: cover;
