@@ -17,6 +17,17 @@
         </nav>
     </header>
 
+    <div class="day">
+        <?php
+        $day = date('l');
+        if ($day) {
+            echo "<p>Today is: $day</p>";
+        } else {
+            echo "<p>Welcome!</p>";
+        }
+        ?>
+    </div>
+
     <div id="carouselExampleCaptions" class="carousel slide">
         <div class="carousel-indicators">
             <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
