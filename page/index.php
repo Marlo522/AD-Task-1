@@ -11,8 +11,8 @@
     <header class="header">
     <nav>
         <ul class="nav-links">
-            <li><a href="index.php">Home</a></li>
-            <li><a href="Kdrama.php">Kdramas</a></li>
+            <li><a href="/index.php">Home</a></li>
+            <li><a href="/page/index.php">Kdramas</a></li>
         </ul>
     </nav>
     <div class="day">
