@@ -15,9 +15,7 @@
                 <li><a href="Kdrama.php">Kdramas</a></li>
             </ul>
         </nav>
-    </header>
-
-    <div class="day">
+        <div class="day">
         <?php
         $day = date('l');
         if ($day) {
@@ -27,6 +25,7 @@
         }
         ?>
     </div>
+    </header>
 
     <div id="carouselExampleCaptions" class="carousel slide">
         <div class="carousel-indicators">
