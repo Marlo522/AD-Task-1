@@ -75,5 +75,16 @@ $kdramas = [
     <?php endforeach; ?>
 </div>
 
+<div class="kdrama" id="kdrama-container">
+    <?php foreach ($kdramas as $genre => $dramas): ?>
+        <?php foreach ($dramas as $drama): ?>
+            <div class="kdrama-item" data-genre="<?php echo $genre; ?>">
+                <img src="/Posters/<?php echo htmlspecialchars($drama['image']); ?>" alt="<?php echo htmlspecialchars($drama['title']); ?>">
+                <h4><?php echo htmlspecialchars($drama['title']); ?></h4>
+            </div>
+        <?php endforeach; ?>
+    <?php endforeach; ?>
+</div>
+
 </body>
 </html>
