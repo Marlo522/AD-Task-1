@@ -59,3 +59,46 @@ body {
 h5{
     font-size: 40px;
 }
+
+.genres {
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+.genres button {
+    padding: 10px 15px;
+    margin: 5px;
+    border: none;
+    background-color: #007BFF;
+    color: white;
+    cursor: pointer;
+    border-radius: 5px;
+}
+.genres button:hover {
+    background-color: #0056b3;
+}
+.kdrama {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.kdrama-item {
+    width: 200px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    overflow: hidden;
+    text-align: center;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.5);
+}
+.kdrama-item img {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+}
+.kdrama-item h4 {
+    margin: 10px 0;
+}
