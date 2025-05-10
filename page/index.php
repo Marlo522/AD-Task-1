@@ -85,6 +85,6 @@ $kdramas = [
         <?php endforeach; ?>
     <?php endforeach; ?>
 </div>
-
+<script src="assets/js/genre.js"></script>
 </body>
 </html>
