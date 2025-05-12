@@ -9,11 +9,11 @@
     <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Title</h3>
+  <h3 align="center">My K-Drama Filtering Project</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Short Description. (Optional)
+  A simple project for filtering K-Dramas by genre. Includes 5 genres such as romance, action, thriller, comedy, and medical.
 </div>
 
 <br />
@@ -61,15 +61,16 @@
 <!-- TODO: To be changed -->
 <!-- The following are just sample -->
 
-Description of the project in details.
+This project allows users to filter a list of K-Dramas based on genres. The user can select genres like "Romance," "Comedy," or "Action," and the list will dynamically update to show only the relevant K-Dramas.
+
 
 ### Key Components
 
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
 
-- Authentication & Authorization
-- CRUD Operations for Invetory System
+- Genre-based filtering for K-Dramas.
+- Responsive design for an optimal user experience.
 
 ### Technology
 
@@ -138,7 +139,8 @@ AD-ProjectName
 
 | Title        | Purpose                                                                       | Link          |
 | ------------ | ----------------------------------------------------------------------------- | ------------- |
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| JavaScript MDN | Comprehensive JavaScript reference and guide.                               | [MDN JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) |
+| Bootstrap Docs | Official documentation for Bootstrap framework.                             | [Bootstrap](https://getbootstrap.com/) |
+| PHP Docs      | PHP manual and resources.                                                    | [PHP Docs](https://www.php.net/docs.php) |
+| CSS Tricks    | Tutorials and guides for CSS techniques.                                     | [CSS Tricks](https://css-tricks.com/) |
+
