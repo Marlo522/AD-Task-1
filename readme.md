@@ -63,27 +63,27 @@
 
 This project allows users to filter a list of K-Dramas based on genres. The user can select genres like "Romance," "Comedy," or "Action," and the list will dynamically update to show only the relevant K-Dramas.
 
-
 ### Key Components
 
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
 
 - Genre-based filtering for K-Dramas.
-- Responsive design for an optimal user experience.
 
 ### Technology
 
 <!-- TODO: List of Technology Used -->
+
 #### Language
+
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 #### Framework/Library
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ## Rules, Practices and Principles
 
@@ -95,13 +95,13 @@ This project allows users to filter a list of K-Dramas based on genres. The user
 4. Add `.util` to the `.php` files if they are utility codes; example: `account.util.php`.
 5. Place Files in their respective folders.
 6. Different file naming Cases
-   | Naming Case | Type of code         | Example                           |
+   | Naming Case | Type of code | Example |
    | ----------- | -------------------- | --------------------------------- |
-   | Pascal      | Utility              | Accoun.util.php                   |
-   | Camel       | Components and Pages | index.php or footer.component.php |
-8. Renaming of Pages folder names are a must, and relates to what it is doing or data it holding.
-9. Use proper label in your github commits: `feat`, `fix`, `refactor` and `docs`
-10. File Structure to follow below.
+   | Pascal | Utility | Accoun.util.php |
+   | Camel | Components and Pages | index.php or footer.component.php |
+7. Renaming of Pages folder names are a must, and relates to what it is doing or data it holding.
+8. Use proper label in your github commits: `feat`, `fix`, `refactor` and `docs`
+9. File Structure to follow below.
 
 ```
 AD-ProjectName
@@ -129,16 +129,16 @@ AD-ProjectName
 └─ index.php
 └─ readme.md
 ```
+
 > The following should be renamed: name.css, name.js, name.jpeg/.jpg/.webp/.png, name.component.php(but not the part of the `component.php`), Name.utils.php(but not the part of the `utils.php`)
 
 ## Resources
 
 <!-- TODO: Add References -->
 
-| Title        | Purpose                                                                       | Link          |
-| ------------ | ----------------------------------------------------------------------------- | ------------- |
-| JavaScript MDN | Comprehensive JavaScript reference and guide.                               | [MDN JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) |
-| Bootstrap Docs | Official documentation for Bootstrap framework.                             | [Bootstrap](https://getbootstrap.com/) |
-| PHP Docs      | PHP manual and resources.                                                    | [PHP Docs](https://www.php.net/docs.php) |
-| CSS Tricks    | Tutorials and guides for CSS techniques.                                     | [CSS Tricks](https://css-tricks.com/) |
-
+| Title          | Purpose                                         | Link                                                                      |
+| -------------- | ----------------------------------------------- | ------------------------------------------------------------------------- |
+| JavaScript MDN | Comprehensive JavaScript reference and guide.   | [MDN JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) |
+| Bootstrap Docs | Official documentation for Bootstrap framework. | [Bootstrap](https://getbootstrap.com/)                                    |
+| PHP Docs       | PHP manual and resources.                       | [PHP Docs](https://www.php.net/docs.php)                                  |
+| CSS Tricks     | Tutorials and guides for CSS techniques.        | [CSS Tricks](https://css-tricks.com/)                                     |
