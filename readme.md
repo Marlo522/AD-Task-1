@@ -4,9 +4,9 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/zyx-0314/">
+  <a href="https://github.com/Marlo522">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
+    <img src="./assets/img/logo.png" alt="Jetlix" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
   <h3 align="center">My K-Drama Filtering Project</h3>
@@ -142,3 +142,4 @@ AD-ProjectName
 | Bootstrap Docs | Official documentation for Bootstrap framework. | [Bootstrap](https://getbootstrap.com/)                                    |
 | PHP Docs       | PHP manual and resources.                       | [PHP Docs](https://www.php.net/docs.php)                                  |
 | CSS Tricks     | Tutorials and guides for CSS techniques.        | [CSS Tricks](https://css-tricks.com/)                                     |
+| Poster Images  | For displaying the poster of series posters.    | [Google](https://www.google.co.uk/)                                       |
