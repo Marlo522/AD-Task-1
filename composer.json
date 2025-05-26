@@ -1,9 +1,9 @@
 {
-    "name": "marlo/php-pages",
+    "name": "marlo/ad-task-1",
     "type": "project",
     "autoload": {
         "psr-4": {
-            "Marlo\\PhpPages\\": "src/"
+            "Marlo\\AD-Task-1\\": "src/"
         }
     },
     "authors": [
