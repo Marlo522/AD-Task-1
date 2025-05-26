@@ -4,6 +4,7 @@ body {
   height: 100vh;
   display: flex;
   flex-direction: column;
+  background: #65a9ec;
 }
 
 .header {
@@ -57,7 +58,7 @@ h5 {
 }
 
 .genres {
-  margin-bottom: 20px;
+  margin: 20px;
   display: flex;
   justify-content: center;
   gap: 10px;
@@ -66,7 +67,7 @@ h5 {
   padding: 10px 15px;
   margin: 5px;
   border: none;
-  background-color: #007bff;
+  background-color: #0c1a99;
   color: white;
   cursor: pointer;
   border-radius: 5px;
